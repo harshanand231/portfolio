@@ -55,11 +55,11 @@ const Footer = () => {
                     <p className="flex flex-row items-center my-[15px] cursor-pointer hover:text-purple-500">
                    <RxTwitterLogo />
                    <a href="https://www.twitter.com/harshanand840" target="_blank"><span className="text-[15px] ml-[6px]">Twitter</span></a>    
-{/*                     </p>
+{                   </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer hover:text-purple-500">
                     <RxShadowInner />
                         <a href="https://join.slack.com/t/newworkspace-xcz8151/shared_invite/zt-29l1d1dx2-~ew5PeeAjPwrrWRp6TJLmA" target="_blank"><span className="text-[15px] ml-[6px]">Slack</span> </a>    
-                    </p> */}
+                    </p> }
                 </div>
                 <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
                     <div className="font-bold text-[16px]">About</div>
