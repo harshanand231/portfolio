@@ -21,12 +21,12 @@ function Aboutme() {
            <div className='flex gap-3 p-4 my-4 text-gray-200 text-[24px]'>
            <a href="https://www.linkedin.com/in/harsh-anand-213a41212/" target="_blank" className='transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110'><FaLinkedin /></a>
           <a href="https://www.github.com/harshanand231" target="_blank" className='transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110'><FaGithub /></a>
-          <a href="https://discord.gg/4ffR2vaHAG" target="_blank" className='transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110'><FaDiscord /></a>
-           <a href="https://www.twitter.com/tajulafreen" target="_blank" className='transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110'><FaTwitter /></a>
+          <a href="#" target="_blank" className='transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110'><FaDiscord /></a>
+           <a href="https://www.twitter.com/harshanand840" target="_blank" className='transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110'><FaTwitter /></a>
            </div>
            <button 
            className='h-[40px] transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 w-[200px] button-primary text-center text-white cursor-pointer rounded-xl '>
-            <a href="/Resume.pdf" download="Resume">Get My Resume </a></button>
+            <a href="/Harsh_Anand_CV.pdf" download="Resume">Get My Resume </a></button>
         </motion.div>
     </motion.div>
   )
