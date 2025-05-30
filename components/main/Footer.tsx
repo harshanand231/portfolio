@@ -73,7 +73,7 @@ const Footer = () => {
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer hover:text-purple-500">
                   
-                        <a href="https://affushaik9493@gmail.com" target="_blank"><span className="text-[15px] ml-[6px]">affushaik9493@gmail.com</span> </a>   
+                        <a href="https://harshanand849@gmail.com" target="_blank"><span className="text-[15px] ml-[6px]">harshanand849@gmail.com</span> </a>   
                     </p>
                 </div>
             </div>
